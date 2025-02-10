@@ -1,0 +1,38 @@
+---
+title: "2024_exp_cleaning"
+output: html_document
+date: "2025-02-10"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+#load libraries
+library(readxl)
+library(dplyr)
+library(vegan)
+library(ggplot2)
+library(permute) # necessary to run vegan package
+library(lattice)
+
+```
+
+```{r}
+#load origional data
+exp_data_24 <- read.csv("Photo_Analysis_Master_data.csv")
+exp_data_70 <- read.csv(INSERT NAME WHEN I HAVE DATA FILE)
+```
+
+```{r}
+#create plot ID column
+exp_data_24 <- exp_data_24 %>% mutate(PlotID=paste(Site, Rep, Treatment, sep   = "."))
+#remove unnecessary columns
+exp_data_24 <- exp_data_24 %>% select(-Photo_ID)
+```
+
+```{r}
+
+```
+
