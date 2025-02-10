@@ -33,6 +33,10 @@ exp_data_24 <- exp_data_24 %>% select(-Photo_ID)
 ```
 
 ```{r}
-
+#to do later
+# create new DF that is calculated percentage cover instead of area
+# Add 0s to all empty areas
+# save as DF
+# turn into matrices 
 ```
 
