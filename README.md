@@ -1,4 +1,4 @@
-# Tropical Predation Panama
+# Tropical Predation in Panama
 
 ![IMG_3454](https://github.com/user-attachments/assets/919baff2-a717-41e6-8a7b-e0f94620ce05)
 
