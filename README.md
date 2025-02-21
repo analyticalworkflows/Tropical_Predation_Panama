@@ -1,5 +1,6 @@
 # Tropical Predation Panama
-![Photo of work site for project](/Tropical_Predation_Panama/Photos/site photos/North Site/IMG_3451.JPG)
+
+![IMG_3454](https://github.com/user-attachments/assets/919baff2-a717-41e6-8a7b-e0f94620ce05)
 
 This repository is for the first chapter of my thesis, focusing on the project understanding the impact of predation and upwelling on recruitment in tropical systems, and comparing tropical systems in 1970 and 2024. This repository contains the data files, code, analysis, and results of the project. 
 
