@@ -1,0 +1,58 @@
+---
+title: "Tropical_pred_storyboarding"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+# This file will be used to storyboard the paper for this project. I plan to use this to display the main results and figures for my paper to share with my collaborators, as well as outline the other sections of the paper.
+```
+
+
+```{r}
+#This is where I plan to display key figures, which I would use a source_rmd code to run the analyses and display the figures I want collaboraters to see. I assume I will do this by creating .rmd files that run only the figures I want, then running them here, but I'm not sure yet.
+
+```
+
+
+```{r}
+#This is where I plan to display results, which I would use a source_rmd code to run the analyses and display the results I want collaboraters to see.
+```
+
+
+```{r}
+#Intro Outline - This is where I will outline the intro once I have the figures and results created
+# - Reserach Questions
+# Q1: What are the effects of predators on the recruitment success of invertebrates on Taboguilla Island? 
+# Q2: Is the impact of predation on recruitment success in 2024 similar to the 1970s?
+# Q3: What are the impacts of upwelling on the recruitment success of invertebrates on Taboguilla Island? 
+# Q4: Is the composition of the intertidal community on Taboguilla Island similar in 2024 and the late 1970s/early 1980s? If not, what has changed?
+
+```
+
+
+```{r}
+#Methods Outline
+# - Start with description of study sites (Taboguilla Island) and include a map (source_rmd for the map I create)
+# - Describe how we got environmental variables
+#   - Temperature (HOBOs, sattelite data)
+# - Next, describe community suvey descriptions - first with 1970s, then with 2024
+# - Describe predation exclusion experiments, first 1970s, then 2024
+# - Describe statistical plan
+#   - NMDS and accompanying analyses (monte carlo stuff, environmental/treatment variables, etc..) - check McCune book to make sure it's all good 
+#   - Figure out other analyses to compare time (ask Julia)
+```
+
+
+```{r}
+# Discussion Outline
+```
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
